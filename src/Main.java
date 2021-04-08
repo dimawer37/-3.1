@@ -4,8 +4,7 @@ public class Main {
         int bonusCost = 20;
         int bonus = 1;
         int totalBonus = tikcetPrice / bonusCost * bonus;
-                int finalBonus = (int) totalBonus;
-                System.out.println(finalBonus);
+                System.out.println(totalBonus);
 
     }
 
